@@ -1,2 +1,2 @@
-# news-man
+# NewsMan
 News app powered by AI
